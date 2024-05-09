@@ -91,7 +91,7 @@ int main()
 
 ## OUTPUT
 
-![322689185-a0a860cf-105e-41c7-9dad-00baaa58ff9c](https://github.com/04Varsha/Linux-IPC-Message-Queues/assets/149035374/92240eb9-ab6b-49fc-a962-e229e4d045ff)
+![image](https://github.com/malligesh309/Linux-IPC-Message-Queues/assets/140491043/9a4fedcb-3241-4567-ab24-d734a1d7080c)
 
 
 
